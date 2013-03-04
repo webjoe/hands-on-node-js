@@ -1,5 +1,5 @@
 // Simpliest Function Declared Anonymously (no name)
 
-function(){
+(function() {
 	console.log('hello');
-}
+})();
